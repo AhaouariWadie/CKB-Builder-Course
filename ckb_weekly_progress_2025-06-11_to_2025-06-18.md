@@ -83,4 +83,3 @@
 
 ---
 
-*Report generated automatically using ChatGPT.*
