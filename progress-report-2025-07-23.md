@@ -24,12 +24,16 @@
 - Focused on `vecs` and `strings` exercises:
   - Used `.push()`, `.pop()`, indexing, and `.len()` for vectors.
   - Understood UTF-8 encoding in Rust strings and methods like `.push_str()` and `.len()`.
+  - Accessed elements with indexing and slicing.
+  - Practiced borrowing (&vec) and mutable references (&mut vec) in loops.
+
 
 ### Sunday, 20 July 2025
-- Completed the `enums` and `structs` exercises:
-  - Defined custom `enum` types and used `match` for control flow.
-  - Built and instantiated `struct`s with named fields.
-  - Practiced pattern matching and `impl` blocks for methods.
+- eviewed all prior concepts, Focused on clarifying: 
+  - Difference between stack and heap.
+  - Ownership implications in arrays and vectors.
+  - When to prefer cloning vs borrowing.
+
 
 ### Monday, 21 July 2025
 - Studied ownership concepts in Rust as an introduction to memory safety.
