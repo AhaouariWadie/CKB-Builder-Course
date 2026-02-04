@@ -1,6 +1,6 @@
-# CKB Registry V4 - Progress Report
+# Eterna Registry - Progress Report
 
-**Project:** CKB Registry - Decentralized Land Registry DApp
+**Project:** Eterna Registry - Decentralized Land Registry DApp
 **Reporting Period:** December 1, 2025 - January 15, 2026
 **Platform:** Nervos CKB Blockchain + Spore Protocol
 
@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-This report documents the development progress of CKB Registry V4, a decentralized land registry application built on the Nervos CKB blockchain. During this reporting period, significant milestones were achieved including custom lock script development, marketplace implementation, blockchain scanning optimization, and production deployment.
+This report documents the development progress of Eterna Registry V4, a decentralized land registry application built on the Nervos CKB blockchain. During this reporting period, significant milestones were achieved including custom lock script development, marketplace implementation, blockchain scanning optimization, and production deployment.
 
 ---
 
